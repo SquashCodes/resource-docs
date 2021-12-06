@@ -8,7 +8,7 @@
 - [ ] Accounts [sqh_accounts]
 - [ ] Inventory [sqh_inventory]
 
-### 📁 WIKI
+### 📁 [WIKI](https://github.com/SquashCodes/resource-docs/wiki)
 #### OBS: As páginas da wiki estão em construção, portanto, a documentação de alguns resources pode estar incompleta ou até inexistente. Caso queira nos apresentar melhorias ou detalhes faltando em nossa wiki, colabore conosoco abrindo um ticket em nosso discord (https://dsc.gg/squash.codes)
 
 [Wiki](https://github.com/SquashCodes/resource-docs/wiki) e documentação dos resources abaixo:

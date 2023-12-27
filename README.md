@@ -6,6 +6,7 @@
 - [ ] Custom Characters [sqh_custom]
 - [ ] Custom Weapons [sqh_weapons]
 - [ ] Accounts [sqh_accounts]
+- [ ] Group System [sqh_groups]
 - [ ] Inventory [sqh_inventory]
 
 ### 📁 [WIKI](https://github.com/SquashCodes/resource-docs/wiki)
@@ -15,5 +16,6 @@
 
 - [Custom Characters [sqh_custom]](https://github.com/SquashCodes/resource-docs/wiki/Custom-Characters)
 - [Custom Weapons [sqh_weapons]](https://github.com/SquashCodes/resource-docs/wiki/Custom-Weapons)
+- [Group System [sqh_groups]](https://github.com/SquashCodes/resource-docs/wiki/Group-System)
 - [Accounts [sqh_accounts]](https://github.com/SquashCodes/resource-docs/wiki/Accounts)
 - [Inventory [sqh_inventory]](https://github.com/SquashCodes/resource-docs/wiki/Inventory)
